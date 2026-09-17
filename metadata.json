@@ -1,0 +1,6 @@
+{
+  "name": "Who Am I? – Reading Edition",
+  "description": "Interactive reading comprehension game where students read passage clues to identify characters, with text-to-speech read aloud, 20 questions, timer, lives, certificates, and fireworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
